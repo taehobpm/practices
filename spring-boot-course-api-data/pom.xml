@@ -6,7 +6,7 @@
 	<groupId>com.taehobpm.practice</groupId>
 	<artifactId>course-api-data</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 
 	<name>course-api-data</name>
 	<description>A practice project for Spring Boot</description>
